@@ -31,7 +31,6 @@ A practice that holds other people's questions has to protect them. The code we 
 
 | | |
 |:--|:--|
-| [untrusted-input-hardening](https://github.com/silencytechnologies/untrusted-input-hardening) | Security primitives for pipelines where input is hostile by default. |
 | [probabilistic-threat-modeling](https://github.com/silencytechnologies/probabilistic-threat-modeling) | How to reason about threats when the answer is a likelihood. |
 
 **AI and language models**
@@ -39,9 +38,7 @@ A practice that holds other people's questions has to protect them. The code we 
 
 | | |
 |:--|:--|
-| [agent-containment](https://github.com/silencytechnologies/agent-containment) | A supervisor containment model for untrusted AI actors. |
 | [ai-trust-boundary-patterns](https://github.com/silencytechnologies/ai-trust-boundary-patterns) | Trust boundaries as a property of the system around an AI agent. |
-| [llm-threat-scoring](https://github.com/silencytechnologies/llm-threat-scoring) | Probabilistic threat scoring for LLM and agentic systems. |
 | [conformal-margin](https://github.com/silencytechnologies/conformal-margin) | Fleet-level monitoring of AI agents with a stated false-positive rate, through conformal prediction. |
 
 <!-- Privacy: add this group when the first privacy repository is public.
